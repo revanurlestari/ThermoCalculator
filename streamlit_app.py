@@ -319,3 +319,4 @@ elif menu == "Gas Nyata":
         )
 
         st.success(f"P = {hasil:.3f} atm")
+        st.success(f"P = {hasil:.3f} atm")
